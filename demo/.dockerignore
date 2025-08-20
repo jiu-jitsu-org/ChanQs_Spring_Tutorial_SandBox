@@ -1,0 +1,19 @@
+# IDE/OS
+.idea
+*.iml
+.DS_Store
+
+# Gradle build outputs
+.gradle
+build
+out
+
+# Git
+.git
+.gitignore
+
+# Node(프론트 섞여있다면)
+node_modules
+
+# 기타 불필요
+*.log
